@@ -174,7 +174,7 @@ header nav{
    line-height: 48px;
 /* identical to box height, or 126% */
 
-   margin-top: 33px;
+   margin: 33px 0 16px 0;
    display: block;
    align-items: center;
    text-align: center;
@@ -185,4 +185,18 @@ header nav{
 
 .workwithus .workwithus__img{
    width: 116px;
+}
+
+.workwithus .workwithus__descr{
+   font-weight: 300;
+   font-size: 15px;
+   line-height: 21px;
+   color: #202020;
+}
+
+.workwithus span{ 
+   font-size: 17px;
+   line-height: 21px;
+   color: #1EACC7;
+   font-weight: 400;
 }
