@@ -195,9 +195,16 @@ header nav{
    color: #202020;
 }
 
+
+.workwithus .workwithus__text{
+   text-align: justify;  
+}
+
 .workwithus span{ 
    font-size: 17px;
    line-height: 21px;
    color: #1EACC7;
    font-weight: 400;
+   text-align: left;
+
 }
