@@ -295,4 +295,52 @@ span {
 .mobile_item_plus img {
   width: 100%;
 }
+
+.order {
+  position: relative;
+}
+
+.order .row .label {
+  color: #000000;
+  background: #FFFFFF;
+  margin-top: 59px;
+}
+
+.order .row .title {
+  color: #FFFFFF;
+  background: #000000;
+  margin-top: 26px;
+}
+
+.order .row .subtitle {
+  color: #FFFFFF;
+  background: #000000;
+  margin-top: 1px;
+}
+
+.order .row img {
+  height: 480px;
+  width: 759px;
+  display: block;
+  margin: 54px auto;
+}
+
+.order_descr {
+  display: inline;
+  text-align: center;
+}
+
+.order .bg {
+  position: absolute;
+}
+
+.order .bg .top_bg {
+  height: 502px;
+  background-color: #000000;
+}
+
+.order .bg .bottom_bg {
+  height: 397px;
+  background: url(/src/imgs/bg/body_bg.jpg) center center/cover no-repeat;
+}
 /*# sourceMappingURL=style.css.map */
